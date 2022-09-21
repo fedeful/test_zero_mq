@@ -1,2 +1,4 @@
 /zguide
 *.pyc
+*.lock
+/.idea
